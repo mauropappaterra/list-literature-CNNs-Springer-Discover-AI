@@ -7,8 +7,8 @@ The following tabulated list presents all paper consulted for the publication "A
 You can find a CSV and XLSX file with the list of papers in this repository.
 
 ## Railway Applications
-A = Surface defect detection 
-B = Fastener
+A = Surface defect detection  
+B = Fastener  
 C = Joints  
 D = Sleepers  
 E = Switches and crossings  
