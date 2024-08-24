@@ -1,4 +1,4 @@
-[PAPER]: https://2023.ieee-itsc.org/
+[PAPER]: https://link.springer.com/article/10.1007/s44163-024-00127-2
 # Literature list for "A study on the application of Convolutional Neural Networks for the maintenance of railway tracks" (Springer)
 The following tabulated list presents all paper consulted for the publication "A study on the application of Convolutional Neural Networks for the maintenance of railway tracks".
 
