@@ -52,56 +52,55 @@ G = Monitoring
 |33|Accurate and effective framework for identifying track defects|2022|Yang H, Bi Q, Yao Z, Wang Y|X||||||||
 |34|SCueU-Net: Efficient Damage Detection Method for Railway Rail|2020|Lu J, et al.|X||||||||
 |35|Collaborative Learning Attention Network Based on RGB Image and Depth Image for Surface Defect Inspection of No-Service Rail|2022|Wang J, Song K, Zhang D, Niu M, Yan Y|X||||||||
-|36|Collaborative Learning Attention Network Based on RGB Image and Depth Image for Surface Defect Inspection of No-Service Rail|2022|Wang J, Song K, Zhang D, Niu M, Yan Y|X||||||||
-|37|Depth Repeated-Enhancement RGB Network for Rail Surface Defect Inspection|2022|Wu J, Zhou W, Qiu W, Yu L|X||||||||
-|38|Defect classification based on deep features for railway tracks in sustainable transportation|2021|Aydin I, Akin E, Karakose M|X||||||||
-|39|Anomaly Detection of Metro Station Tracks Based on Sequential Updatable Anomaly Detection Framework|2022|Zheng Z, et al.|X||||||||
-|40|Two Deep Learning Networks for Rail Surface Defect Inspection of Limited Samples With Line-Level Label|2021|Zhang D, Song K, Wang Q, He Y, Wen X, Yan Y|X||||||||
-|41|Unsupervised Saliency Detection of Rail Surface Defects Using Stereoscopic Images|2021|Niu M, Song K, Huang L, Wang Q, Yan Y, Meng Q|X||||||||
-|42|IoT Based on-the-fly Visual Defect Detection in Railway Tracks|2020|AlNaimi N, Qidwai U|X||||||||
-|43|An Automated Technology for IoT based Rail-Track Inspection to Locate Surface Flaws by Robotics and Neural Networks|2022|Maheswari BU, Nithya P, Vijay S, Tamilarasi K, G A, Muthukumaran N|X||||||X||
-|44|Structural health monitoring of railway tracks using IoT-based multi-robot system|2021|Iyer S, Velmurugan T, Gandomi AH, et al.|X||||||||
-|45|Detection of Rail Defects with Deep Learning Controlled Autonomous UAV|2021|Aydin I, Sevi M, Sahbaz K, Karakose M|X||||||||
-|46|UAV-assisted Railway Track Segmentation based on Convolutional Neural Networks|2021|Mammeri A, Siddiqui AJ, Zhao Y|X||||||X||
-|47|Integration of Building Information Modeling and Machine Learning for Railway Defect Localization|2021|Sresakoolchai J, Kaewunruen S|X||||||||
-|48|Quantification of Dynamic Track Stiffness Using Machine Learning|2022|Huang J, Yin X, Kaewunruen S|X||||||||
-|49|Developing Machine Learning-Based Models for Railway Inspection|2021|Yang C, Sun Y, Ladubec C, Liu Y|X||X||X||||
-|50|Analysis of Railway Track Irregularities with Convolutional Autoencoders and Clustering Algorithms|2020|Niebling J, Baasch B, Kruspe A|X||||||||
-|51|Rail Break Prediction and Cause Analysis Using Imbalanced In-Service Train Data|2022|Zeng C, Huang J, Wang H, Xie J, Huang S|X||||||||
-|52|Machine Learning in Problems of Automation of Ultrasound Diagnostics of Railway Tracks|2020|Igonin A, Vitaliy U|X||||||||
-|53|Rail Defect Classification with Deep Learning Method|2022|Lu S, Wang J, Jing G, Qiang W, Rad MM|X||||||||
-|54|Deep Learning for Track Quality Evaluation of High-Speed Railway Based on Vehicle-Body Vibration Prediction|2019|Ma S, Gao L, Liu X, Lin J|X||||||||
-|55|A Novel Approach to Railway Track Faults Detection Using Acoustic Analysis|2021|Shafique R, Siddiqui HUR, Rustam F, Ullah S, Siddique MA, Lee E, Ashraf I, Dudley S|X||||||||
-|56|Rail Fatigue Crack Classification by WSCNN-GRU Using Acoustic Emission|2022|Chang Y, Hao Q, Hu X, Zhang X, Shen Y|X||||||||
-|57|Railway Track Circuit Fault Diagnosis Using 1DCNN Considering Locality Dependencies and Multiscale Feature Fusion|2022|Xing Y, Wang J, Peng C, Zhu L|X||||||||
-|58|Railway Fastener Fault Diagnosis Based on Generative Adversarial Network and Residual Network Model|2020|Dechen Y, Qiang S, Jianwei Y, Hengchang L, Jiao Z||X|||||||
-|59|Four Discriminator Cycle-Consistent Adversarial Network for Improving Railway Defective Fastener Inspection|2022|Liu J, Ma Z, Qiu Y, Ni X, Shi B, Liu H||X|||||||
-|60|Deep Multitask Learning for Railway Track Inspection|2017|Gibert X, Patel VM, Chellappa R||X||X|||||
-|61|An Investigation of Railway Fastener Detection Using Image Processing and Augmented Deep Learning|2021|Chandran P, Asber J, Thiery F, Odelius J, Rantatalo M||X|||||||
-|62|Railway Track Fastener Defect Detection Based on Image Processing and Deep Learning Techniques: A Comparative Study|2019|Wei X, Yang Z, Liu Y, Wei D, Jia L, Li Y||X|||||||
-|63|An Improved Faster R-CNN for Railway Fastening System Detection|2021|Peng X, Tong S, Lu X, Wei Y||X||||X|||
-|64|Mask R-CNN Architecture Based Railway Fastener Fault Detection Approach|2022|Yilmazer M, Karakose M||X|||||||
-|65|A Real-Time Track Fasteners Classification System Based on Yolov4-Tiny Model|2022|Hsu TY, Hsieh CC||X||||X|||
-|66|Detection of Rail Fasteners from Aerial Images Using Deep Convolution Neural Networks|2020|Ranyal E, Jain K||X||||X|||
-|67|A YOLOv3-based Deep Learning Application Research for Condition Monitoring of Rail Thermite Welded Joints|2020|Liu Y, Sun X, Hock Lye Pang J|||X||||X||
-|68|A Two-Stage Algorithm of Railway Sleeper Crack Detection Based on Edge Detection and CNN|2020|Wang G, Liu Y, Xiang J||||X|||||
-|69|Prognostics of Unsupported Railway Sleepers and Their Severity Diagnostics Using Machine Learning|2022|Sresakoolchai J, Kaewunruen S||||X|||||
-|70|Sleeper Defect Detection Based on Improved YOLO V3 Algorithm|2020|Zheng Y, Wu S, Liu D, Wei R, Li S, Tu Z||||X|||||
-|71|Railway Automatic Switch Stationary Contacts Wear Detection Under Few-Shot Occasions|2022|Hu X, Cao Y, Sun Y, Tang T|||||X||||
-|72|Deep Neural Networks for Railway Switch Detection and Classification Using Onboard Camera Images|2021|Jahan K, Niemeijer J, Kornfeld N, Roth M|||||X||||
-|73|RailSem19: A Dataset for Semantic Rail Scene Understanding|2019|Zendel O, Murschitz M, Zeilinger M, Steininger D, Abbasi S, Beleznai C|||||||||
-|74|Railway Condition Monitoring and Fault Detection Based on YOLOv4|2022|Yilmazer M, Karakose M|||||X||X||
-|75|A Segmentation-Based Multitask Learning Approach for Isolating Switch State Recognition in High-Speed Railway Traction Substation|2022|Lu X et al.|||||X||||
-|76|A Novel Fault Diagnosis Method for High-Speed Railway Turnout Based On DCAE-Logistic Regression|2020|Chen X, Zhang G, Dong W, Sun X, Cheng X|||||X||||
-|77|Improved Fault Diagnosis of Railway Switch System Using Energy-Based Thresholding Wavelets (EBTW) and Neural Networks|2021|Chen Q, Nicholson G, Roberts C, Ye J, Zhao Y|||||X||||
-|78|Neural Network-Based Train Identification in Railway Switches and Crossings Using Accelerometer Data|2020|Kr? R, Podrouzek J, Kratochvílová M, Vukuši? I, Plášek O|||||X||||
-|79|Deep-Learning and Vibration-Based System for Wear Size Estimation of Railway Switches and Crossings|2021|Najeh T, Lundberg J, Kerrouche A|||||X||||
-|80|Automatic Rail Component Detection Based on AttnConv-Net|2022|Wang T, Zhang Z, Yang F, Tsui K||||||X|||
-|81|Machine Learning Approach for Detection of Track Assets for Railroad Health Monitoring with Drone Images|2022|Saini A, KG K, Sriram K, Singh D, Singh KP||||||X|X||
-|82|Sensor Deploying for Damage Identification of Vibration Isolator in Floating-Slab Track Using Deep Residual Network|2021|Zhu S, Zhang Q, Zhai W, Yuan Z, Cai C||||||X|||
-|83|Vegetation Suppression System on and Near the Railway Tracks Based on PLC and Deep Learning|2022|Ili? V, Romi? M, Ili? S||||||X|||
-|84|Anomaly Detection, Localization and Classification for Railway Inspection|2021|Gasparini R et al.||||||X|||
-|85|Anomaly Detection on the Rail Lines Using Semantic Segmentation and Self-Supervised Learning|2021|Jahan K, Umesh JP, Roth M||||||X|||
-|86|Foreign Object Detection for Railway Ballastless Trackbeds: A Semi-Supervised Learning Method|2022|Chen Z, Wang Q, Yu T, Zhang M, Liu Q, Yao J, Wu Y, Wang P, He Q||||||X|||
-|87|A Semi-Supervised Railway Foreign Object Detection Method Based on GAN|2021|Chen Y, Tong S, Lu X, Wei Y||||||X|||
+|36|Depth Repeated-Enhancement RGB Network for Rail Surface Defect Inspection|2022|Wu J, Zhou W, Qiu W, Yu L|X||||||||
+|37|Defect classification based on deep features for railway tracks in sustainable transportation|2021|Aydin I, Akin E, Karakose M|X||||||||
+|38|Anomaly Detection of Metro Station Tracks Based on Sequential Updatable Anomaly Detection Framework|2022|Zheng Z, et al.|X||||||||
+|39|Two Deep Learning Networks for Rail Surface Defect Inspection of Limited Samples With Line-Level Label|2021|Zhang D, Song K, Wang Q, He Y, Wen X, Yan Y|X||||||||
+|40|Unsupervised Saliency Detection of Rail Surface Defects Using Stereoscopic Images|2021|Niu M, Song K, Huang L, Wang Q, Yan Y, Meng Q|X||||||||
+|41|IoT Based on-the-fly Visual Defect Detection in Railway Tracks|2020|AlNaimi N, Qidwai U|X||||||||
+|42|An Automated Technology for IoT based Rail-Track Inspection to Locate Surface Flaws by Robotics and Neural Networks|2022|Maheswari BU, Nithya P, Vijay S, Tamilarasi K, G A, Muthukumaran N|X||||||X||
+|43|Structural health monitoring of railway tracks using IoT-based multi-robot system|2021|Iyer S, Velmurugan T, Gandomi AH, et al.|X||||||||
+|44|Detection of Rail Defects with Deep Learning Controlled Autonomous UAV|2021|Aydin I, Sevi M, Sahbaz K, Karakose M|X||||||||
+|45|UAV-assisted Railway Track Segmentation based on Convolutional Neural Networks|2021|Mammeri A, Siddiqui AJ, Zhao Y|X||||||X||
+|46|Integration of Building Information Modeling and Machine Learning for Railway Defect Localization|2021|Sresakoolchai J, Kaewunruen S|X||||||||
+|47|Quantification of Dynamic Track Stiffness Using Machine Learning|2022|Huang J, Yin X, Kaewunruen S|X||||||||
+|48|Developing Machine Learning-Based Models for Railway Inspection|2021|Yang C, Sun Y, Ladubec C, Liu Y|X||X||X||||
+|49|Analysis of Railway Track Irregularities with Convolutional Autoencoders and Clustering Algorithms|2020|Niebling J, Baasch B, Kruspe A|X||||||||
+|50|Rail Break Prediction and Cause Analysis Using Imbalanced In-Service Train Data|2022|Zeng C, Huang J, Wang H, Xie J, Huang S|X||||||||
+|51|Machine Learning in Problems of Automation of Ultrasound Diagnostics of Railway Tracks|2020|Igonin A, Vitaliy U|X||||||||
+|52|Rail Defect Classification with Deep Learning Method|2022|Lu S, Wang J, Jing G, Qiang W, Rad MM|X||||||||
+|53|Deep Learning for Track Quality Evaluation of High-Speed Railway Based on Vehicle-Body Vibration Prediction|2019|Ma S, Gao L, Liu X, Lin J|X||||||||
+|54|A Novel Approach to Railway Track Faults Detection Using Acoustic Analysis|2021|Shafique R, Siddiqui HUR, Rustam F, Ullah S, Siddique MA, Lee E, Ashraf I, Dudley S|X||||||||
+|55|Rail Fatigue Crack Classification by WSCNN-GRU Using Acoustic Emission|2022|Chang Y, Hao Q, Hu X, Zhang X, Shen Y|X||||||||
+|56|Railway Track Circuit Fault Diagnosis Using 1DCNN Considering Locality Dependencies and Multiscale Feature Fusion|2022|Xing Y, Wang J, Peng C, Zhu L|X||||||||
+|57|Railway Fastener Fault Diagnosis Based on Generative Adversarial Network and Residual Network Model|2020|Dechen Y, Qiang S, Jianwei Y, Hengchang L, Jiao Z||X|||||||
+|58|Four Discriminator Cycle-Consistent Adversarial Network for Improving Railway Defective Fastener Inspection|2022|Liu J, Ma Z, Qiu Y, Ni X, Shi B, Liu H||X|||||||
+|59|Deep Multitask Learning for Railway Track Inspection|2017|Gibert X, Patel VM, Chellappa R||X||X|||||
+|60|An Investigation of Railway Fastener Detection Using Image Processing and Augmented Deep Learning|2021|Chandran P, Asber J, Thiery F, Odelius J, Rantatalo M||X|||||||
+|61|Railway Track Fastener Defect Detection Based on Image Processing and Deep Learning Techniques: A Comparative Study|2019|Wei X, Yang Z, Liu Y, Wei D, Jia L, Li Y||X|||||||
+|62|An Improved Faster R-CNN for Railway Fastening System Detection|2021|Peng X, Tong S, Lu X, Wei Y||X||||X|||
+|63|Mask R-CNN Architecture Based Railway Fastener Fault Detection Approach|2022|Yilmazer M, Karakose M||X|||||||
+|64|A Real-Time Track Fasteners Classification System Based on Yolov4-Tiny Model|2022|Hsu TY, Hsieh CC||X||||X|||
+|65|Detection of Rail Fasteners from Aerial Images Using Deep Convolution Neural Networks|2020|Ranyal E, Jain K||X||||X|||
+|66|A YOLOv3-based Deep Learning Application Research for Condition Monitoring of Rail Thermite Welded Joints|2020|Liu Y, Sun X, Hock Lye Pang J|||X||||X||
+|67|A Two-Stage Algorithm of Railway Sleeper Crack Detection Based on Edge Detection and CNN|2020|Wang G, Liu Y, Xiang J||||X|||||
+|68|Prognostics of Unsupported Railway Sleepers and Their Severity Diagnostics Using Machine Learning|2022|Sresakoolchai J, Kaewunruen S||||X|||||
+|69|Sleeper Defect Detection Based on Improved YOLO V3 Algorithm|2020|Zheng Y, Wu S, Liu D, Wei R, Li S, Tu Z||||X|||||
+|70|Railway Automatic Switch Stationary Contacts Wear Detection Under Few-Shot Occasions|2022|Hu X, Cao Y, Sun Y, Tang T|||||X||||
+|71|Deep Neural Networks for Railway Switch Detection and Classification Using Onboard Camera Images|2021|Jahan K, Niemeijer J, Kornfeld N, Roth M|||||X||||
+|72|RailSem19: A Dataset for Semantic Rail Scene Understanding|2019|Zendel O, Murschitz M, Zeilinger M, Steininger D, Abbasi S, Beleznai C|||||||||
+|73|Railway Condition Monitoring and Fault Detection Based on YOLOv4|2022|Yilmazer M, Karakose M|||||X||X||
+|74|A Segmentation-Based Multitask Learning Approach for Isolating Switch State Recognition in High-Speed Railway Traction Substation|2022|Lu X et al.|||||X||||
+|75|A Novel Fault Diagnosis Method for High-Speed Railway Turnout Based On DCAE-Logistic Regression|2020|Chen X, Zhang G, Dong W, Sun X, Cheng X|||||X||||
+|76|Improved Fault Diagnosis of Railway Switch System Using Energy-Based Thresholding Wavelets (EBTW) and Neural Networks|2021|Chen Q, Nicholson G, Roberts C, Ye J, Zhao Y|||||X||||
+|77|Neural Network-Based Train Identification in Railway Switches and Crossings Using Accelerometer Data|2020|Kr? R, Podrouzek J, Kratochvílová M, Vukuši? I, Plášek O|||||X||||
+|78|Deep-Learning and Vibration-Based System for Wear Size Estimation of Railway Switches and Crossings|2021|Najeh T, Lundberg J, Kerrouche A|||||X||||
+|79|Automatic Rail Component Detection Based on AttnConv-Net|2022|Wang T, Zhang Z, Yang F, Tsui K||||||X|||
+|80|Machine Learning Approach for Detection of Track Assets for Railroad Health Monitoring with Drone Images|2022|Saini A, KG K, Sriram K, Singh D, Singh KP||||||X|X||
+|81|Sensor Deploying for Damage Identification of Vibration Isolator in Floating-Slab Track Using Deep Residual Network|2021|Zhu S, Zhang Q, Zhai W, Yuan Z, Cai C||||||X|||
+|82|Vegetation Suppression System on and Near the Railway Tracks Based on PLC and Deep Learning|2022|Ili? V, Romi? M, Ili? S||||||X|||
+|83|Anomaly Detection, Localization and Classification for Railway Inspection|2021|Gasparini R et al.||||||X|||
+|84|Anomaly Detection on the Rail Lines Using Semantic Segmentation and Self-Supervised Learning|2021|Jahan K, Umesh JP, Roth M||||||X|||
+|85|Foreign Object Detection for Railway Ballastless Trackbeds: A Semi-Supervised Learning Method|2022|Chen Z, Wang Q, Yu T, Zhang M, Liu Q, Yao J, Wu Y, Wang P, He Q||||||X|||
+|86|A Semi-Supervised Railway Foreign Object Detection Method Based on GAN|2021|Chen Y, Tong S, Lu X, Wei Y||||||X|||
 
