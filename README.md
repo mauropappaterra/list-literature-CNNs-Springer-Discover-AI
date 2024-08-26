@@ -6,7 +6,7 @@ This repository contains a tabulated list with all papers consulted for the publ
 - Read this publication. Click on [this link][PAPER] to read the publication on the Springer website.
 - You can find a CSV and XLSX file with the list of papers in this repository.
 - Citations. Use the following text if you want to cite this publication:  
-> [#] Mauro José Pappaterra, María Lucia Pappaterra, Francesco Flammini "A study on the application of convolutional neural networks for the maintenance of railway tracks", Discover Artificial Intelligence, vol. 4, art. 30, Springer, May 2024. https://doi.org/10.1007/s44163-024-00127-2.
+> [#] Mauro José Pappaterra, María Lucía Pappaterra, Francesco Flammini "A study on the application of convolutional neural networks for the maintenance of railway tracks", Discover Artificial Intelligence, vol. 4, art. 30, Springer, May 2024. https://doi.org/10.1007/s44163-024-00127-2.
 - You can follow me on all of [my academic profiles][LINKTREE] for future updates and more work related to this publication.
 
 ## Abstract
